@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.svg" alt="ScottyRobinson.dev" width="320">
+  <img src="logo.svg" alt="ScottyRobinson.dev" width="320">
 </p>
 
 # Scott Robinson
