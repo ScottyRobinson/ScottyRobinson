@@ -37,7 +37,7 @@
 
 ### Current
 
-- **Software Engineer** at [Flip](https://flip.co) — product development with PHP & AngularJS _(2024–Present)_
+- **Software Engineer** at [Flip](https://getflip.com) — product development with The Bot Platform stack, plus being a frontend engineer with Angular _(2024–Present)_
 - **Previously:** The Bot Platform _(acquired by Flip)_ — full-stack conversational bots for HR, Workplace, Teams, Slack
 - **Before that:** Lead Web Developer at Media Sauce Solutions — Laravel, Vue, Inertia, cloud infrastructure
 
