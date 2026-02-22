@@ -1,32 +1,49 @@
 <p align="center">
-  <img src="logo.svg" alt="ScottyRobinson.dev" width="320">
+  <picture>
+    <source srcset=".github/logo-dark.svg" media="(prefers-color-scheme: dark)">
+    <img src=".github/logo-light.svg" alt="ScottyRobinson.dev" width="320">
+  </picture>
 </p>
 
-# Scott Robinson
+<p align="center">
+  <img src="https://img.shields.io/badge/Lancaster%2C%20UK-📍-informational?style=flat-square" alt="Location">
+  <a href="https://scottyrobinson.dev"><img src="https://img.shields.io/badge/Website-scottyrobinson.dev-58A6FF?style=flat-square" alt="Website"></a>
+  <a href="mailto:hello@scottyrobinson.dev"><img src="https://img.shields.io/badge/Email-hello%40scottyrobinson.dev-EA4335?style=flat-square" alt="Email"></a>
+</p>
 
-**Software Engineer** · Lancaster, UK · Building web applications
+<p align="center">
+  <em>Software Engineer</em> — building web applications that balance business goals with strong engineering foundations
+</p>
 
-I build software that balances business goals with strong engineering foundations. Most of my work spans full-stack product development — SaaS platforms, internal tools, and systems that teams actually use daily.
+<p align="center">
+  Full-stack product development · SaaS · Internal tools · Systems teams use daily
+</p>
 
-[scottyrobinson.dev](https://scottyrobinson.dev) · [hello@scottyrobinson.dev](mailto:hello@scottyrobinson.dev)
+<br>
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" alt="Inertia.js">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+</p>
 
 ---
 
-## Stack
+### Current
 
-Laravel · PHP · React · Vue.js · Inertia.js · Tailwind · Go
-
----
-
-## Current
-
-- **Software Engineer** at [Flip](https://flip.co) — product development with PHP & AngularJS (2024–Present)
-- **Previously:** The Bot Platform (acquired by Flip) — full-stack conversational bots for HR, Workplace, Teams, Slack
+- **Software Engineer** at [Flip](https://flip.co) — product development with PHP & AngularJS _(2024–Present)_
+- **Previously:** The Bot Platform _(acquired by Flip)_ — full-stack conversational bots for HR, Workplace, Teams, Slack
 - **Before that:** Lead Web Developer at Media Sauce Solutions — Laravel, Vue, Inertia, cloud infrastructure
 
 ---
 
-## Building
+### Building
 
 | Project                                        | Description                                                                      |
 | ---------------------------------------------- | -------------------------------------------------------------------------------- |
@@ -36,8 +53,11 @@ Laravel · PHP · React · Vue.js · Inertia.js · Tailwind · Go
 
 ---
 
-## Elsewhere
+### Elsewhere
 
-[GitHub](https://github.com/ScottyRobinson) · [LinkedIn](https://www.linkedin.com/in/scotttyrobinson/) · [X](https://x.com/ScottyRobinson_) · [Instagram](https://instagram.com/scottyrobinson_)
-
----
+<p align="center">
+  <a href="https://github.com/ScottyRobinson"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/scotttyrobinson/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/ScottyRobinson_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://instagram.com/scottyrobinson_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
